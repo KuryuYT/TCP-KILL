@@ -1,6 +1,5 @@
 import os; import socket; import time; import random; import threading; import sys
 
-
 ip = str(input('IP: '))
 port = int(input('Port: '))
 times = int(input('Times: '))
